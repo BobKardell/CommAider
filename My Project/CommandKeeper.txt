@@ -1,0 +1,6 @@
+﻿ping [IP_Address]
+echo [Text]
+tracert [IP_Address]
+mkdir [Directory_Name]
+cd C:\Users\bobka\Downloads\dcfldd-1.3.4.x86win32 & dcfldd bs=[BYTES] conv=noerror,sync if=[Input_file] of=[Output_file]
+cd C:\Users\bobka\Downloads\dcfldd-1.3.4.x86win32 && ping [IP]

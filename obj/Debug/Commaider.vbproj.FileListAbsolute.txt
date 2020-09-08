@@ -1,0 +1,16 @@
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.exe.config
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.exe
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.pdb
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.xml
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.vbprojAssemblyReference.cache
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.Form1.resources
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.Resources.resources
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.vbproj.GenerateResource.cache
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.exe
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.xml
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.pdb
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.RunScript.resources
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.exe.manifest
+C:\Users\bobka\source\repos\Commaider\bin\Debug\Commaider.application
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.exe.manifest
+C:\Users\bobka\source\repos\Commaider\obj\Debug\Commaider.application
